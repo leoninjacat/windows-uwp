@@ -46,7 +46,6 @@ The Reveal recipe breakdown is:
 - Hover Reveal will be beneath content and text
 - The backplate (that turns on and enables Hover Reveal)
 - The background (background of control)
-
 <div class=”microsoft-internal-note”>
 To create your own Reveal lighting effect for static comps or prototype purposes, see the full [uni design guidance](http://uni/DesignDepot.FrontEnd/#/ProductNav/3020/1/dv/?t=Resources%7CToolkit%7CReveal&f=Neon) for this effect in illustrator.
 </div>
@@ -77,7 +76,7 @@ These controls do not have Reveal by default as they are smaller controls that a
 | RepeatButton | RepeatButtonRevealStyle |
 | AppBarButton | AppBarButtonRevealStyle |
 | SemanticZoom | SemanticZoomRevealStyle |
-| ComboBox | ComboxBoxRevealStyle |
+| ComboBox | ComboBoxRevealStyle |
 
 To apply these styles, simply update the Style property like so:
 
